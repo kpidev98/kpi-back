@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "attio",
+      "source": "@attio/v2.0#3ug0z1cm1uvkr2q",
+      "integrity": "sha512-cWUBLy6RYVELO/VpZsU5D4gq0h4zZ1s2cRa8UYivFt/eFzaPAXbWOetca/y4rknQVhF9vkyPneiJJh0TI9xk8g==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
