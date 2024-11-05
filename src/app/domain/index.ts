@@ -1,6 +1,6 @@
-import RecordsController from "./attio/Attio";
-type Controller = typeof RecordsController;
+import RecordsController from "./attio-controllers/Records";
+import NotesController from "./attio-controllers/Notes";
 
-const controllers = <Controller[]>[RecordsController];
+const controllers = [RecordsController, NotesController];
 
 export { controllers };
